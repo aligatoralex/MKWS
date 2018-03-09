@@ -5,3 +5,4 @@ if showBool:
     pass
 liczba = 3.41
 print(liczba)
+print("Koniec")
