@@ -1,5 +1,5 @@
 #mojpierwszy program w pythonie
-showBool = False
+showBool = True
 if showBool:
     print("Hello World!")
     pass
